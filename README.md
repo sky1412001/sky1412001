@@ -14,11 +14,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:6C63FF,100:FF4ECD&height=220&section=header&text=Akash&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20Native%20%7C%20Node.js%20%7C%20MongoDB&descAlignY=58"/>
 </p>
 
-
-
-
-
-
 # 🚀 Tech Stack & Tools
 
 <p align="center">
@@ -38,23 +33,11 @@
 
 </p>
 
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF" />
-
-</p>
-
----
-
 # 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=sky1412001&theme=algolia&no-frame=true&margin-w=15&margin-h=15" />
 
 </p>
 
