@@ -41,7 +41,6 @@
 
 </p>
 
----
 
 # 📉 Contribution Graph
 
@@ -53,37 +52,7 @@
 
 ---
 
-# 🌐 Connect With Me
 
-<p align="center">
-
-<a href="https://github.com/sky1412001">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:youremail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://telegram.org">
-<img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# ⚡ Current Coding Status
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sky1412001&theme=tokyonight"/>
-
-</div>
 
 
 # 🐍 Contribution Snake Animation
