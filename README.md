@@ -22,15 +22,6 @@
 
 </p>
 
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sky1412001&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2FF&fire=FF4ECD&currStreakLabel=00C2FF" />
-
 </p>
 
 # 🏆 GitHub Trophies
@@ -42,19 +33,6 @@
 </p>
 
 
-# 📉 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sky1412001&custom_title=Akash's%20Contribution%20Graph&bg_color=0D1117&color=00C2FF&line=FF4ECD&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</p>
-
----
-
-
-
-
 # 🐍 Contribution Snake Animation
 
 <p align="center">
@@ -63,9 +41,3 @@
 
 </p>
 
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:6C63FF,100:FF4ECD&height=150&section=footer"/>
-
-</p>
