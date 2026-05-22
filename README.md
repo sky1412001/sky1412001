@@ -1,84 +1,173 @@
-<h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">🚀 React Native & Full Stack Developer from India</h3>
+<h1 align="center">✨ Hey There, I'm Akash ✨</h1>
+
+<h3 align="center">
+🚀 React Native Developer • Full Stack JavaScript Developer • Mobile App Creator
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=React+Native+Developer;Full+Stack+JavaScript+Developer;Node.js+%7C+MongoDB+%7C+Firebase;Building+Modern+Mobile+Apps" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=React+Native+Developer;Full+Stack+JavaScript+Developer;Node.js+%7C+MongoDB+%7C+Firebase;Building+Beautiful+Mobile+Applications;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-## 👨‍💻 About Me
-
-- 📱 React Native Mobile App Developer  
-- ⚡ Full Stack JavaScript Developer  
-- 🔥 Building scalable apps using Node.js & MongoDB  
-- 🌍 Passionate about modern UI/UX  
-- 🚚 Currently building Truck Booking & Rental Apps  
-- 💡 Love solving real-world problems with code  
-
----
-
-## 🚀 Tech Stack
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,reactnative,js,ts,nodejs,express,mongodb,mysql,firebase,redux,html,css,git,github,vscode,androidstudio,xcode,swift,postman,linux" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:6C63FF,100:FF4ECD&height=220&section=header&text=Akash&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20Native%20%7C%20Node.js%20%7C%20MongoDB&descAlignY=58"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+<div align="center">
+
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="400"/>
+
+</div>
+
+---
+
+# 🌟 About Me
+
+```yaml
+name: Akash
+role: React Native & Full Stack Developer
+location: India 🇮🇳
+
+currently_learning:
+  - Advanced React Native
+  - Backend Scaling
+  - System Design
+
+tech_stack:
+  - React Native
+  - React.js
+  - Node.js
+  - Express.js
+  - MongoDB
+  - MySQL
+  - Firebase
+
+life_goal: Build scalable and beautiful apps 🚀
+```
+
+---
+
+# 🚀 Tech Stack & Tools
 
 <p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,redux,js,ts,nodejs,express,mongodb,mysql,firebase,html,css,tailwind,git,github,vscode,androidstudio,xcode,swift,postman,linux&perline=10" />
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=FF4ECD" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2FF&fire=FF4ECD&currStreakLabel=00C2FF" />
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF" />
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=15&margin-h=15" />
+
+</p>
+
+---
+
+# 📉 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&custom_title=Akash's%20Contribution%20Graph&bg_color=0D1117&color=00C2FF&line=FF4ECD&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:youremail@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://telegram.org">
-<img src="https://skillicons.dev/icons?i=telegram" />
+<img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# ⚡ Current Coding Status
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 💻 Developer Quote
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-<p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🛠️ Current Dev Setup
+# 🐍 Contribution Snake Animation
 
-```javascript
-const akash = {
-  mobile: "React Native",
-  frontend: "React.js",
-  backend: "Node.js + Express.js",
-  database: ["MongoDB", "MySQL"],
-  tools: [
-    "Firebase",
-    "Redux",
-    "Git",
-    "Postman",
-    "Xcode",
-    "Android Studio"
-  ],
-  currentFocus: "Building scalable mobile applications"
-};
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</p>
+
+---
+
+# ☕ Fun Fact
+
+<div align="center">
+
+### 💡 “I don't just write code — I build experiences.”
+
+</div>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:6C63FF,100:FF4ECD&height=150&section=footer"/>
+
+</p>
