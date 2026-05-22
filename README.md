@@ -10,9 +10,9 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:6C63FF,100:FF4ECD&height=220&section=header&text=Akash&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20Native%20%7C%20Node.js%20%7C%20MongoDB&descAlignY=58"/>
-</p>
+</p> -->
 
 # 🚀 Tech Stack & Tools
 
