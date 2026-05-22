@@ -13,7 +13,7 @@
 ## 🚀 Languages & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,mongodb,mysql,firebase,html,css,git,github,vscode,androidstudio,postman,linux,xcode" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,mongodb,mysql,firebase,html,css,git,github,vscode,androidstudio,xcode,postman,linux" />
 </p>
 
 ---
