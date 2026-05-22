@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi 👋, I'm Akash
 
-<!--
-**sky1412001/sky1412001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 React Native Developer | Full Stack Developer
 
-Here are some ideas to get you started:
+- 📱 Building modern React Native mobile apps
+- 🌐 Backend development with Node.js & Express
+- 🗄️ Database management using MongoDB & SQL
+- 🔥 Firebase integration, APIs & Real-time apps
+- 🚚 Currently working on truck booking & rental apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Languages & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,mongodb,mysql,firebase,html,css,git,github,vscode,androidstudio,postman,linux" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:youremail@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://telegram.org">
+<img src="https://skillicons.dev/icons?i=telegram" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🔥 Current Focus
+
+```javascript
+const akash = {
+  code: ["JavaScript", "TypeScript"],
+  mobile: ["React Native"],
+  frontend: ["React.js"],
+  backend: ["Node.js", "Express.js"],
+  database: ["MongoDB", "MySQL", "SQL Server"],
+  tools: ["Firebase", "Git", "Postman"],
+  currentProject: "Truck Booking & Rental Apps"
+};
