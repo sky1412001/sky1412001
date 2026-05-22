@@ -33,7 +33,6 @@
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sky1412001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=FF4ECD" />
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sky1412001&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2FF&fire=FF4ECD&currStreakLabel=00C2FF" />
 
