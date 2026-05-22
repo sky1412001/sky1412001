@@ -16,37 +16,14 @@
 
 
 
-# 🌟 About Me
 
-```yaml
-name: Akash
-role: React Native & Full Stack Developer
-location: India 🇮🇳
 
-currently_learning:
-  - Advanced React Native
-  - Backend Scaling
-  - System Design
-
-tech_stack:
-  - React Native
-  - React.js
-  - Node.js
-  - Express.js
-  - MongoDB
-  - MySQL
-  - Firebase
-
-life_goal: Build scalable and beautiful apps 🚀
-```
-
----
 
 # 🚀 Tech Stack & Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,redux,js,ts,nodejs,express,mongodb,mysql,firebase,html,css,tailwind,git,github,vscode,androidstudio,xcode,swift,postman,linux&perline=10" />
+<img src="https://skillicons.dev/icons?i=react,redux,js,ts,nodejs,express,mongodb,mysql,firebase,html,css,tailwind,git,github,vscode,androidstudio,swift,postman,linux&perline=10" />
 
 </p>
 
