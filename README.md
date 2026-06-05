@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=React+Native+Developer;Full+Stack+JavaScript+Developer;Node.js+%7C+MongoDB+%7C+Firebase+Supabase;Building+Modern+Mobile+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=React+Native+Developer;Full+Stack+JavaScript+Developer;Node.js+%7C+MongoDB+%7C+Firebase;Building+Modern+Mobile+Applications;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -25,7 +25,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,redux,js,ts,nodejs,express,mongodb,mysql,firebase,supbase,html,css,tailwind,git,github,vscode,androidstudio,postman,linux&perline=9" />
+<img src="https://skillicons.dev/icons?i=react,redux,js,ts,nodejs,express,mongodb,mysql,firebase,html,css,tailwind,git,github,vscode,androidstudio,postman,linux&perline=9" />
 
 </p>
 
