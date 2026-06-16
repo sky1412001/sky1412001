@@ -24,7 +24,11 @@ Building scalable mobile applications with React Native, Node.js, MongoDB & Fire
 | <img src="https://media.tenor.com/2roX3uxz_68AAAAC/ralph-wiggum-simpsons.gif" width="320" /> | <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312gtsyrtzabputxfp6wqctanf3e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" width="100%" /> |
 
 ---
+## 🎧 Currently Playing
 
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312gtsyrtzabputxfp6wqctanf3e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" />
+</p>
 # 🚀 Tech Stack
 
 <p align="center">
