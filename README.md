@@ -13,10 +13,7 @@ React Native • TypeScript • JavaScript • Node.js • Express.js • MongoD
 </p>
 
 ---
-
-| | |
-|---|---|
-| <img src="https://media.tenor.com/2roX3uxz_68AAAAC/ralph-wiggum-simpsons.gif" width="320"/> | <a href="https://open.spotify.com/user/312gtsyrtzabputxfp6wqctanf3e"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/></a><br><br>🎧 Music while coding |
- 
----
+<a href="https://open.spotify.com/user/312gtsyrtzabputxfp6wqctanf3e">
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+</a>
 
