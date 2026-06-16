@@ -36,38 +36,4 @@ React Native • TypeScript • JavaScript • Node.js • Express.js • MongoD
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sky1412001&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sky1412001&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sky1412001&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🎯 Current Focus
-
-- 📱 React Native
-- ⚡ Performance Optimization
-- 🔥 Scalable Backend APIs
-- ☁️ System Design
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://github.com/sky1412001">GitHub</a> •
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-<a href="mailto:your@email.com">Email</a>
-</p>
-
----
-
-<p align="center">
-⚡ Build. Learn. Improve. Repeat.
-</p>
