@@ -40,12 +40,26 @@ const akash = {
 };
 ```
 
+- 📱 Passionate about building mobile applications
+- 🌐 Full Stack JavaScript Developer
+- ⚡ Experienced with REST APIs, Firebase & Real-time Apps
+- 🚚 Building Truck Booking, Rental & Service Platforms
+- 🔥 Focused on performance and clean architecture
+
 ---
 
-## 🎧 Currently Listening
+## 🎧 Music While Coding
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312gtsyrtzabputxfp6wqctanf3e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" />
+  <a href="https://open.spotify.com/user/312gtsyrtzabputxfp6wqctanf3e">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/312gtsyrtzabputxfp6wqctanf3e">
+    Listen on Spotify 🎵
+  </a>
 </p>
 
 ---
@@ -53,20 +67,11 @@ const akash = {
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,redux,js,ts,nodejs,express,mongodb,mysql,firebase,tailwind,git,github,vscode,androidstudio,postman,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,nodejs,express,mongodb,mysql,firebase,tailwind,git,github,vscode,androidstudio,postman,linux&perline=8" />
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-
+React Native • Redux • JavaScript • TypeScript • Node.js • Express.js • MongoDB • MySQL • Firebase • Tailwind CSS • Git • GitHub • VS Code • Android Studio • Postman • Linux
 </p>
 
 ---
@@ -74,12 +79,12 @@ const akash = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sky1412001&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sky1412001&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sky1412001&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sky1412001&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sky1412001&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sky1412001&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -91,17 +96,17 @@ const akash = {
 </p>
 
 <p align="center">
-<i>Me after fixing a bug by changing one line.</i>
+  <i>Me after fixing a bug by changing one line.</i>
 </p>
 
 ---
 
 ## 🌟 Current Focus
 
-- 📱 Building production-ready React Native apps
-- ⚡ Optimizing app performance
-- 🔥 Designing scalable backend APIs
-- 🚀 Learning system design & cloud technologies
+- 📱 React Native Development
+- ⚡ Performance Optimization
+- 🔥 Scalable Backend APIs
+- ☁️ System Design & Cloud Technologies
 
 ---
 
