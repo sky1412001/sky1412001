@@ -21,7 +21,7 @@ React Native • TypeScript • JavaScript • Node.js • Express.js • MongoD
 <tr>
 <td width="30%" align="center">
 
-<img src="https://media.tenor.com/search/bart-simpson-computer-gifs" width="300" alt="Bart Simpso"/>
+  <img src="https://media.tenor.com/search/milhouse-gifs" width="280" alt="Milhouse">
 </td>
 
 <td width="70%" align="center">
