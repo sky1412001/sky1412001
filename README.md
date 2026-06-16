@@ -13,7 +13,7 @@ React Native • TypeScript • JavaScript • Node.js • Express.js • MongoD
 </p>
 
 ---
-<a href="https://open.spotify.com/user/312gtsyrtzabputxfp6wqctanf3e">
+<!-- <a href="https://open.spotify.com/user/312gtsyrtzabputxfp6wqctanf3e">
   <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
-</a>
+</a> -->
 
