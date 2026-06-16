@@ -5,13 +5,6 @@ React Native Developer • Full Stack JavaScript Developer
 </h3>
 
 <p align="center">
-Building scalable mobile applications with React Native, Node.js, MongoDB & Firebase.
-</p>
-
----
-## 🚀 Tech Stack
-
-<p align="center">
 <img src="https://skillicons.dev/icons?i=react,redux,js,ts,nodejs,express,mongodb,mysql,firebase,html,css,tailwind,git,github,vscode,androidstudio,postman,linux&perline=9" />
 </p>
 
