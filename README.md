@@ -17,3 +17,4 @@ React Native • TypeScript • JavaScript • Node.js • Express.js • MongoD
   <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
 </a> -->
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312gtsyrtzabputxfp6wqctanf3e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
