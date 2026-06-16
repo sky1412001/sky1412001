@@ -12,7 +12,7 @@ Building scalable mobile applications with React Native, Node.js, MongoDB & Fire
   <a href="https://github.com/sky1412001">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:your@email.com">
@@ -22,49 +22,22 @@ Building scalable mobile applications with React Native, Node.js, MongoDB & Fire
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-```javascript
-const akash = {
-  role: "React Native Developer",
-  code: ["JavaScript", "TypeScript"],
-  mobile: ["React Native", "Android", "iOS"],
-  backend: ["Node.js", "Express.js", "Firebase"],
-  database: ["MongoDB", "MySQL"],
-  currentlyBuilding: [
-    "Truck Booking Platform",
-    "Rental Applications",
-    "Service Management Apps"
-  ],
-  motto: "Build. Learn. Improve. Repeat."
-};
-```
-
-- 📱 Passionate about building mobile applications
+- 📱 Passionate React Native Developer
 - 🌐 Full Stack JavaScript Developer
-- ⚡ Experienced with REST APIs, Firebase & Real-time Apps
-- 🚚 Building Truck Booking, Rental & Service Platforms
-- 🔥 Focused on performance and clean architecture
+- ⚡ Building scalable mobile apps and backend services
+- 🚚 Currently working on Truck Booking, Rental & Service Applications
+- 🌱 Trying to touch some grass
+- 💬 Always up for a chat — hit me up if you've got something cool
+
+| | |
+|---|---|
+| <img src="https://media.tenor.com/2roX3uxz_68AAAAC/ralph-wiggum-simpsons.gif" width="350"/> | <img src="https://spotify-recently-played-readme.vercel.app/api?user=312gtsyrtzabputxfp6wqctanf3e&count=1" width="100%"/> |
 
 ---
 
-## 🎧 Music While Coding
-
-<p align="center">
-  <a href="https://open.spotify.com/user/312gtsyrtzabputxfp6wqctanf3e">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://open.spotify.com/user/312gtsyrtzabputxfp6wqctanf3e">
-    Listen on Spotify 🎵
-  </a>
-</p>
-
----
-
-## 🛠️ Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,redux,js,ts,nodejs,express,mongodb,mysql,firebase,tailwind,git,github,vscode,androidstudio,postman,linux&perline=8" />
@@ -76,7 +49,29 @@ React Native • Redux • JavaScript • TypeScript • Node.js • Express.js 
 
 ---
 
-## 📊 GitHub Stats
+## 📱 Mobile Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+---
+
+## ⚙️ Backend & Database
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=sky1412001&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -89,19 +84,7 @@ React Native • Redux • JavaScript • TypeScript • Node.js • Express.js 
 
 ---
 
-## 😄 Developer Mood
-
-<p align="center">
-  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/ralph-wiggum-simpsons.gif" width="260"/>
-</p>
-
-<p align="center">
-  <i>Me after fixing a bug by changing one line.</i>
-</p>
-
----
-
-## 🌟 Current Focus
+## 🎯 Current Focus
 
 - 📱 React Native Development
 - ⚡ Performance Optimization
@@ -113,13 +96,21 @@ React Native • Redux • JavaScript • TypeScript • Node.js • Express.js 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/sky1412001">GitHub</a> •
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-  <a href="mailto:your@email.com">Email</a>
+  <a href="https://github.com/sky1412001">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-⚡ Turning ideas into smooth mobile experiences.
+  ⚡ Build. Learn. Improve. Repeat.
 </p>
