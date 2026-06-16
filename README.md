@@ -9,16 +9,6 @@ Building scalable mobile applications with React Native, Node.js, MongoDB & Fire
 </p>
 
 ---
-
-## 👨‍💻 About Me
-
-- 📱 Passionate React Native Developer
-- 🌐 Full Stack JavaScript Developer
-- 🚚 Currently working on Truck Booking, Rental & Service Applications
-- 🌱 Trying to touch some grass
-- 💬 Always up for a chat — hit me up if you've got something cool
-
-
 ## 🚀 Tech Stack
 
 <p align="center">
