@@ -12,8 +12,20 @@ React Native Developer • Full Stack JavaScript Developer
 React Native • TypeScript • JavaScript • Node.js • Express.js • MongoDB • MySQL • Firebase • Tailwind CSS
 </p>
 
+---
+
+## 🎧 Spotify
+
 <p align="center">
   <a href="https://open.spotify.com/user/312gtsyrtzabputxfp6wqctanf3e">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312gtsyrtzabputxfp6wqctanf3e&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true" />
+    <img src="https://img.shields.io/badge/Follow%20Me%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/312gtsyrtzabputxfp6wqctanf3e">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312gtsyrtzabputxfp6wqctanf3e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" />
+  </a>
+</p>
+
+--->
