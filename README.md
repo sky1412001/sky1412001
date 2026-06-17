@@ -12,11 +12,6 @@ React Native Developer • Full Stack JavaScript Developer
 React Native • TypeScript • JavaScript • Node.js • Express.js • MongoDB • MySQL • Firebase • Tailwind CSS
 </p>
 
-## 👨‍💻 About Me
-
-- 🌱 Trying to touch some grass
-- 💬 Always up for a chat — hit me up if you've got something cool
-
 <table>
 <tr>
 <td width="70%" align="center">
