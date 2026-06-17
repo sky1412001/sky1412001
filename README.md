@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  React Native • TypeScript • JavaScript • Node.js • Express.js • MongoDB • MySQL • Firebase • Tailwind CSS
+  <!-- React Native • TypeScript • JavaScript • Node.js • Express.js • MongoDB • MySQL • Firebase • Tailwind CSS -->
 </p>
 
 <p align="center">
