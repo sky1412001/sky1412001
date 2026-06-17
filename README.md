@@ -18,8 +18,6 @@
 </tr>
 </table>
 
-<hr>
-
 <table align="center">
 <tr>
 <td align="center">
