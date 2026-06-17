@@ -20,7 +20,7 @@ React Native • TypeScript • JavaScript • Node.js • Express.js • MongoD
 <table>
 <tr>
 <td width="70%" align="center">
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312gtsyrtzabputxfp6wqctanf3e&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=true&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=312gtsyrtzabputxfp6wqctanf3e&redirect=true)
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312gtsyrtzabputxfp6wqctanf3e&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=true&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=312gtsyrtzabputxfp6wqctanf3e&redirect=true)
 </tr>
 </table>
