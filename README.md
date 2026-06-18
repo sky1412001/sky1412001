@@ -25,9 +25,6 @@
 <table align="center">
 <tr>
 <td align="center">
-
-## 🎵 Currently Listening
-
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312gtsyrtzabputxfp6wqctanf3e&redirect=true">
   <img
     src="https://spotify-github-profile.kittinanx.com/api/view?uid=312gtsyrtzabputxfp6wqctanf3e&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=true&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark"
