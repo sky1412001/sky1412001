@@ -10,8 +10,6 @@
 <tr>
 <td align="center">
 
-## 🚀 Tech Stack
-
 <img src="https://skillicons.dev/icons?i=react,redux,js,ts,nodejs,express,mongodb,mysql,firebase,html,css,tailwind,git,github,vscode,androidstudio,postman,linux&perline=9" />
 
 </td>
