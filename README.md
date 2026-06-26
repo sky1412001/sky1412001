@@ -19,9 +19,6 @@
 <table align="center">
 <tr>
 <td align="center">
-
-<hr>
-
 <table align="center">
 <tr>
 <td align="center">
